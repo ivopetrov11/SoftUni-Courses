@@ -1,2 +1,4 @@
-# SoftUni-Courses
-Courses from my education @ SoftUni
+Solutions of problems and tasks, part of my Python-learning journey in SoftUni.
+
+
+
